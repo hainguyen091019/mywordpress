@@ -1,0 +1,27 @@
+.elementor-857 .elementor-element.elementor-element-ab95f28{text-align:center;}.elementor-857 .elementor-element.elementor-element-ab95f28 > .elementor-widget-container{margin:-12px 0px 0px 0px;}.elementor-857 .elementor-element.elementor-element-d3c4d9b{text-align:center;}.elementor-857 .elementor-element.elementor-element-d3c4d9b .elementor-heading-title{color:#000202;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-857 .elementor-element.elementor-element-194202c .elementor-icon-list-icon i{color:#006400;transition:color 0.3s;}.elementor-857 .elementor-element.elementor-element-194202c .elementor-icon-list-icon svg{fill:#006400;transition:fill 0.3s;}.elementor-857 .elementor-element.elementor-element-194202c{--e-icon-list-icon-size:24px;--icon-vertical-offset:0px;}.elementor-857 .elementor-element.elementor-element-194202c .elementor-icon-list-text{transition:color 0.3s;}/* Start custom CSS for column, class: .elementor-element-4cdb6c5 */.sile-2:hover p{
+ color: DarkGreen;
+}
+.sile-2:hover img {
+padding: 10px;
+transform: scale(1);
+transition: all 0.8s;
+}
+.sile-2:hover img {
+    
+    border: solid 15px DarkGray;
+}
+.sile-2:hover .elementor-icon-list-items{
+     transform: translateY(0); 
+    
+}
+.elementor-icon-list-items{
+    transform: translateY(100%);
+  transition: transform 0.3s ease-in-out;
+}
+.sile-2:hover .elementor-icon-list-items{
+    opacity: 2;
+}
+.elementor-icon-list-items {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}/* End custom CSS */
