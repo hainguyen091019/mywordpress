@@ -66,7 +66,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 
 					</form>
 				</div>
-				<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.2","eb_version":"4.0.8","eb_admin_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-admin\/","rest_rootURL":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-json\/","ajax_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nft_nonce":"eed6b8cb82"};</script>
+				<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.2","eb_version":"4.0.8","eb_admin_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-admin\/","rest_rootURL":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-json\/","ajax_url":"https:\/\/hainguyen091019.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nft_nonce":"49a7815483"};</script>
 <script src="https://hainguyen091019.github.io/mywordpress/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script src="https://hainguyen091019.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script src="https://hainguyen091019.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
@@ -90,7 +90,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://hainguyen091019.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/nguyenhai\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://hainguyen091019.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"966f960296"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"f8cdbadb6a"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
