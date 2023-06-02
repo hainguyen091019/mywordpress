@@ -9,10 +9,10 @@
 
 <channel>
 	<title></title>
-	<atom:link href="http://localhost/nguyenhai/feed/?simply_static_page=8151" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/nguyenhai/feed/?simply_static_page=8723" rel="self" type="application/rss+xml" />
 	<link>https://hainguyen091019.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Jun 2023 23:55:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jun 2023 08:38:35 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
